@@ -1,0 +1,40 @@
+2022-07-23 14:38:03,160 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-23 14:38:03,164 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-23 14:38:03,171 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Completed initialization in 7 ms
+2022-07-23 14:39:50,737 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-23 14:39:50,755 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-23 14:39:50,776 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-23 14:39:50,803 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-23 14:47:24,820 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 1920 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-23 14:47:24,830 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-23 14:47:27,575 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-23 14:47:27,821 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 225 ms. Found 6 JPA repository interfaces.
+2022-07-23 14:47:30,000 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9081 (http)
+2022-07-23 14:47:30,024 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9081"]
+2022-07-23 14:47:30,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-23 14:47:30,035 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-07-23 14:47:30,435 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-23 14:47:30,437 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5424 ms
+2022-07-23 14:47:31,057 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-23 14:47:31,163 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-23 14:47:31,474 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-23 14:47:31,653 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-23 14:47:32,207 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-23 14:47:32,253 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-23 14:47:34,675 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-23 14:47:34,694 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-23 14:47:37,706 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-23 14:47:38,470 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-23 14:47:38,878 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9081"]
+2022-07-23 14:47:38,936 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9081 (http) with context path ''
+2022-07-23 14:47:40,047 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 16.052 seconds (JVM running for 17.215)
+2022-07-23 14:47:40,539 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-23 14:47:40,545 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-23 14:47:40,548 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Completed initialization in 2 ms
+2022-07-23 14:53:12,143 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-23 14:53:12,163 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-23 14:53:12,169 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-23 14:53:12,185 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-23 15:13:05,782 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 6152 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-23 15:13:05,782 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2022-07-23 15:13:05,789 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default

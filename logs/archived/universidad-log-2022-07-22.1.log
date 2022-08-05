@@ -1,0 +1,39 @@
+2022-07-22 19:23:23,837 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-22 19:23:24,059 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-22 19:23:24,316 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-22 19:23:24,638 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-22 19:23:24,687 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-22 19:23:26,720 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-22 19:23:26,732 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 19:23:28,456 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 8.119 seconds (JVM running for 9.358)
+2022-07-22 19:23:28,575 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 19:23:28,579 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-22 19:23:28,596 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-22 19:24:47,921 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 3716 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-22 19:24:47,927 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-22 19:24:49,602 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-22 19:24:49,766 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 143 ms. Found 5 JPA repository interfaces.
+2022-07-22 19:24:50,682 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-22 19:24:50,807 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-22 19:24:51,066 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-22 19:24:51,316 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-22 19:24:51,675 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-22 19:24:51,727 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-22 19:24:53,702 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-22 19:24:53,715 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 19:24:55,461 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 8.174 seconds (JVM running for 9.275)
+2022-07-22 19:24:55,583 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 19:24:55,587 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-22 19:24:55,601 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-22 19:25:58,437 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 3656 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-22 19:25:58,442 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-22 19:26:00,158 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-22 19:26:00,317 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 142 ms. Found 5 JPA repository interfaces.
+2022-07-22 19:26:01,228 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-22 19:26:01,318 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-22 19:26:01,557 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-22 19:26:01,794 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-22 19:26:02,106 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-22 19:26:02,157 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-22 19:26:04,152 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-22 19:26:04,163 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'

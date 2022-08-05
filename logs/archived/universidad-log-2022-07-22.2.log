@@ -1,0 +1,38 @@
+2022-07-22 19:26:05,958 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 8.18 seconds (JVM running for 9.269)
+2022-07-22 19:26:06,138 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 19:26:06,142 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-22 19:26:06,176 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-22 20:42:26,355 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 1796 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-22 20:42:26,360 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-22 20:42:27,985 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-22 20:42:28,157 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 155 ms. Found 6 JPA repository interfaces.
+2022-07-22 20:42:29,085 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-22 20:42:29,215 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-22 20:42:29,458 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-22 20:42:29,713 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-22 20:42:30,079 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-22 20:42:30,122 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-22 20:42:32,100 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-22 20:42:32,114 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 20:42:33,956 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 8.248 seconds (JVM running for 9.437)
+2022-07-22 20:42:33,984 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 20:42:33,990 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-22 20:42:34,009 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-22 20:43:04,865 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 4892 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-22 20:43:04,871 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-22 20:43:06,502 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-22 20:43:06,673 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 149 ms. Found 6 JPA repository interfaces.
+2022-07-22 20:43:07,622 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-22 20:43:07,734 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-22 20:43:07,948 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-22 20:43:08,252 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-22 20:43:08,667 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-22 20:43:08,729 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-22 20:43:10,717 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-22 20:43:10,728 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 20:43:12,581 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 8.35 seconds (JVM running for 9.548)
+2022-07-22 20:43:12,729 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-22 20:43:12,733 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-22 20:43:12,749 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-22 20:45:53,178 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 1588 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-22 20:45:53,183 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default

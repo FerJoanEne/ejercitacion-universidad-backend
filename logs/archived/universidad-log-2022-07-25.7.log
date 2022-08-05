@@ -1,0 +1,40 @@
+2022-07-25 05:44:20,161 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 05:44:21,660 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-25 05:44:22,056 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-25 05:44:22,453 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9081"]
+2022-07-25 05:44:22,497 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9081 (http) with context path ''
+2022-07-25 05:44:23,600 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 11.612 seconds (JVM running for 12.718)
+2022-07-25 05:45:30,123 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 05:45:30,124 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-07-25 05:45:30,129 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Completed initialization in 5 ms
+2022-07-25 06:13:34,245 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-25 06:13:34,261 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 06:13:34,267 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-25 06:13:34,291 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-25 06:24:51,830 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2022-07-25 06:24:51,838 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 1904 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-25 06:24:51,839 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-25 06:24:54,205 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-25 06:24:54,376 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 146 ms. Found 6 JPA repository interfaces.
+2022-07-25 06:24:55,775 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9081 (http)
+2022-07-25 06:24:55,793 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9081"]
+2022-07-25 06:24:55,794 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-25 06:24:55,795 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-07-25 06:24:56,010 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-25 06:24:56,011 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 4048 ms
+2022-07-25 06:24:56,334 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-25 06:24:56,435 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-25 06:24:56,733 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-25 06:24:56,947 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-25 06:24:57,296 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-25 06:24:57,353 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-25 06:24:59,470 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-25 06:24:59,482 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 06:25:01,091 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-25 06:25:01,518 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-25 06:25:01,891 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9081"]
+2022-07-25 06:25:01,945 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9081 (http) with context path ''
+2022-07-25 06:25:02,996 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 11.909 seconds (JVM running for 13.208)
+2022-07-25 06:26:44,814 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 06:26:44,814 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-07-25 06:26:44,816 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Completed initialization in 1 ms

@@ -1,0 +1,39 @@
+2022-07-25 05:13:56,421 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 05:13:56,441 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-25 05:13:56,484 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-25 05:37:11,328 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 2444 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-25 05:37:11,326 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2022-07-25 05:37:11,339 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-25 05:37:14,639 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-25 05:37:14,863 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 200 ms. Found 6 JPA repository interfaces.
+2022-07-25 05:37:16,767 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9081 (http)
+2022-07-25 05:37:16,798 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9081"]
+2022-07-25 05:37:16,801 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-25 05:37:16,802 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-07-25 05:37:17,170 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-25 05:37:17,171 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5667 ms
+2022-07-25 05:37:17,651 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-25 05:37:17,759 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.30.Final
+2022-07-25 05:37:18,181 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-25 05:37:18,448 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-25 05:37:18,967 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-25 05:37:19,034 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-25 05:37:21,517 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-25 05:37:21,534 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 05:37:23,123 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-25 05:37:23,602 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-25 05:37:23,970 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9081"]
+2022-07-25 05:37:24,035 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9081 (http) with context path ''
+2022-07-25 05:37:25,196 INFO org.springframework.boot.StartupInfoLogger [main] Started UniversidadBackendApplication in 14.755 seconds (JVM running for 16.224)
+2022-07-25 05:37:54,905 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 05:37:54,905 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-07-25 05:37:54,908 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-2] Completed initialization in 2 ms
+2022-07-25 05:43:38,358 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-25 05:43:38,371 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-25 05:43:38,374 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-25 05:43:38,387 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2022-07-25 05:43:45,457 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2022-07-25 05:43:45,475 INFO org.springframework.boot.StartupInfoLogger [main] Starting UniversidadBackendApplication using Java 16.0.2 on DESKTOP-SVUUJ9C with PID 7116 (C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend\target\classes started by Joan-WindowsPC in C:\Users\Joan-WindowsPC\Desktop\ejercitacion-universidad-backend)
+2022-07-25 05:43:45,476 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2022-07-25 05:43:47,715 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-25 05:43:47,893 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 163 ms. Found 6 JPA repository interfaces.

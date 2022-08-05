@@ -1,0 +1,7 @@
+2022-07-30 18:49:16,180 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 18:49:16,184 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-07-30 18:49:16,186 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9081-exec-1] Completed initialization in 2 ms
+2022-07-30 18:49:53,093 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-30 18:49:53,112 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringContextShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-30 18:49:53,114 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-07-30 18:49:53,131 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
